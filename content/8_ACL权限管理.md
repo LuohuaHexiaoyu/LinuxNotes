@@ -54,4 +54,7 @@ default mount options中是否有acl
 
 
 
-### SBID功能
+### SBID功能   防止其他用户删除文件
+
+<p></p>
+
