@@ -1,0 +1,75 @@
+{
+  "plugins": [
+    "splitter",
+    "anchors",
+    "collapsible-menu",
+    "anchor-navigation-ex",
+    "tbfed-pagefooter",
+    "disqus",
+    "baidu",
+    "fontsettings",
+    "-lunr",
+    "-search",
+    "search-pro",
+    "copy-code-button",
+    "expandable-chapters-small",
+    "-sharing",
+    "sharing-plus",
+    "toc"
+  ],
+  "title": "alanzj的笔记（2018-2020）",
+  "description": "Linux学习笔记",
+  "pluginsConfig": {
+    "fontSettings": {
+      "theme": "white",
+      "family": "msyh",
+      "size": 2
+    },
+    "tbfed-pagefooter": {
+      "copyright": "Copyright &copy zhangcheng 2018-2020",
+      "modify_label": "文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "disqus": {
+      "shortName": "Linux学习笔记"
+    },
+    "baidu": {
+      "token": "a9787f0ab45d5e237bab522431d0a7ec"
+    },
+    "sharing": {
+      "douban": false,
+      "facebook": false,
+      "google": false,
+      "qq": true,
+      "wechat": true,
+      "twitter": false,
+      "weibo": true,
+      "all": [
+        "douban",
+        "facebook",
+        "google",
+        "instapaper",
+        "linkedin",
+        "twitter",
+        "weibo",
+        "messenger",
+        "qq",
+        "qzone",
+        "viber",
+        "whatsapp"
+      ]
+    },
+    "pdf": {
+      "pageNumbers": true,
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "paperSize": "a4",
+      "margin": {
+        "right": 62,
+        "left": 62,
+        "top": 56,
+        "bottom": 56
+      }
+    }
+  }
+}
