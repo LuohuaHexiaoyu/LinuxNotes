@@ -44,3 +44,14 @@ default mount options中是否有acl
 
 `-R 递归设定ACL权限(对目录下的所有文件或目录都修改)`
 
+
+
+### SUID功能
+
+
+
+### GUID功能
+
+
+
+### SBID功能
